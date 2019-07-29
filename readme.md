@@ -1,4 +1,3 @@
 bla bla bla
-
-
-PROMENA 123
+pola 8
+mau mau
